@@ -1,0 +1,15 @@
+body{
+  padding-top: 65px;
+  font-family: ubuntu;
+  font-size: 150%;
+}
+nav{
+  background: #2196f3 !important;
+}
+nav a{
+  color: #fff !important;
+}
+
+.navbar-brand{
+  font-family: lobster;
+}
